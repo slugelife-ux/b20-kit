@@ -2,7 +2,7 @@
 
 Zero-dependency SDK for Coinbase tokenized stocks (B20) on Base — multiplier-correct portfolio reads and token discovery, for JavaScript and Python. Free forever, no API key, works against any Base RPC.
 
-**Status: planned. Build not started.** This repo is the landing zone: the problems it solves are documented below with onchain facts, the API surface is decided.
+**Status: v0.1 built and live-tested (2026-11-13) — 7/7 checks against Base mainnet.** Not yet published to npm (Stage C). Test it now: `node test.mjs` (read-only, no keys).
 
 ## The problems (all verified onchain, 2026-11-13, Base mainnet 8453)
 

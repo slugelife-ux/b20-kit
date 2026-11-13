@@ -1,0 +1,26 @@
+{
+  "name": "b20-kit",
+  "version": "0.1.0",
+  "description": "Zero-dependency SDK for Coinbase tokenized stocks (B20) on Base: multiplier-correct portfolio reads, ERC-8056 handling, 0xef precompile-safe.",
+  "type": "module",
+  "main": "index.js",
+  "exports": {
+    ".": "./index.js"
+  },
+  "files": [
+    "index.js",
+    "index.d.ts",
+    "README.md",
+    "LICENSE"
+  ],
+  "keywords": [
+    "base",
+    "b20",
+    "tokenized-stocks",
+    "erc-8056",
+    "coinbase",
+    "oracle",
+    "sdk"
+  ],
+  "license": "MIT"
+}
